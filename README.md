@@ -1,4 +1,4 @@
-# vuex-json
+# vuetify example
 
 ## Project setup
 ```
